@@ -1,0 +1,20 @@
+<Button
+    android:id="@+id/btnWeb"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Open Website"
+    android:onClick="openWebsite" />
+
+<Button
+    android:id="@+id/btnDial"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Open Dialer"
+    android:onClick="openDialer" />
+
+<Button
+    android:id="@+id/btnCamera"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Open Camera"
+    android:onClick="openCamera" />
